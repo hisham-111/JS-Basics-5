@@ -27,7 +27,7 @@ btn.onclick = ()=> {
         sum += i;
     }
 
-    alert("The sum is " + sum)
+    alert("The sum is " + sum);
 }
 
 
