@@ -17,6 +17,6 @@ btn.onclick = ()=> {
     }
 
 
-    alert("The mulSum is : " + mulSum)
+    alert("The mulSum is : " + mulSum);
 
   }
