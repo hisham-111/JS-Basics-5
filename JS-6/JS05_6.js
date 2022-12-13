@@ -4,11 +4,7 @@
 
 
 // const btn = document.getElementById("btn");
-
-const inputField = document.getElementById("number"); 
-
-
-
+// const inputField = document.getElementById("number"); 
 
 btn.onclick = ()=> {
 
@@ -33,12 +29,6 @@ btn.onclick = ()=> {
     document.write("<BR>"); // end of line break
     
  
-   
-  
-     
-        
-     
-
   }
 }
 
