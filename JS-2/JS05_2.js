@@ -7,7 +7,7 @@ else if (Name == "Bob"){
     }
 
 else {
-    alert ("Hello Stranger !")
+    alert (" Hello Stranger ! ")
 }
 
 
